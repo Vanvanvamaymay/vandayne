@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36767093228",
+    "project_id": "doan-b6a96",
+    "storage_bucket": "doan-b6a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36767093228:android:9deac172d1d8a4931bf0c9",
+        "android_client_info": {
+          "package_name": "com.example.foodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36767093228-ssuib4gavesqao663js5k9i0v9gp6tr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDO22wSRpsLanMITDYEw1Gp4qhwtHHks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36767093228-ssuib4gavesqao663js5k9i0v9gp6tr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
